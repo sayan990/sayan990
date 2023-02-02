@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <h2>Mail ==></h2> maximilianocaceres1601@gmail.com
+  <h2>Mail:</h2> maximilianocaceres1601@gmail.com
 </p>
-<h3 align="left">Contactame:</h3>
+<h3 align="center">Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maximiliano-caceres-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano-caceres-dev" height="30" width="40" /></a>
 
